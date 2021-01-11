@@ -1,0 +1,24 @@
+{
+  "name": "let-s-join",
+  "version": "1.0.0",
+  "description": "Video chatting application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atiqahammed/Let-s-Join.git"
+  },
+  "author": "Atiq Ahammed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atiqahammed/Let-s-Join/issues"
+  },
+  "homepage": "https://github.com/atiqahammed/Let-s-Join#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
